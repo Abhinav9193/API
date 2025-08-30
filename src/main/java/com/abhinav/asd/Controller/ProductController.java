@@ -1,8 +1,6 @@
 package com.abhinav.asd.Controller;
-
 import org.springframework.web.bind.annotation.*;
 import java.util.*;
-
 @RestController
 @RequestMapping("/products")
 public class ProductController {
